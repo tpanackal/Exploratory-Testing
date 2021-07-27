@@ -6,8 +6,16 @@ https://github.com/ale-sanchez-g/responsivefight/issues/75(Functional Issue)
 https://github.com/ale-sanchez-g/responsivefight/issues/76(Security Vulnerability Issue)
 
 
+
+
 User with more than 4000 points in the leaderboard:
 
 username: Neo
 user_id: 13807
 score: 10000
+
+
+This can be verified by going to the below url and searching for a user with username as Neo 
+
+
+Url: https://responsivefight.herokuapp.com/leaderboard
