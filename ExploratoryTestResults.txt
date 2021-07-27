@@ -1,0 +1,12 @@
+Exploratory Testing Results:
+
+Issues Raised:
+https://github.com/ale-sanchez-g/responsivefight/issues/74
+https://github.com/ale-sanchez-g/responsivefight/issues/75
+
+
+User with more than 4000 points in the leaderboard:
+
+username: Neo
+user_id: 13807
+score: 10000
