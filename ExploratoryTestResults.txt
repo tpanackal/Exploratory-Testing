@@ -1,8 +1,9 @@
 Exploratory Testing Results:
 
 Issues Raised:
-https://github.com/ale-sanchez-g/responsivefight/issues/74
-https://github.com/ale-sanchez-g/responsivefight/issues/75
+https://github.com/ale-sanchez-g/responsivefight/issues/74(Functional Issue)
+https://github.com/ale-sanchez-g/responsivefight/issues/75(Functional Issue)
+https://github.com/ale-sanchez-g/responsivefight/issues/76(Security Vulnerability Issue)
 
 
 User with more than 4000 points in the leaderboard:
