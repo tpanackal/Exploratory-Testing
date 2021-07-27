@@ -7,6 +7,7 @@ https://github.com/ale-sanchez-g/responsivefight/issues/76(Security Vulnerabilit
 
 
 
+Extra Points: (Create a user in the game with more than 4000 points in the leaderboard)
 
 User with more than 4000 points in the leaderboard:
 
